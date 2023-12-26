@@ -3,5 +3,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/) and [Apache Iceberg](http://github.com/apache/iceberg/) and [Apache linkis](http://github.com/apache/incubator-linkis)
-- 🌱 I’m currently learning analytics and storage of big data
+- 🌱 I’m currently learning k8s operator mode of flink.
 - 📫 How to reach me: liuhunter09@gmail.com
